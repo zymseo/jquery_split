@@ -1,6 +1,6 @@
 /*
 * Description: jQuery部分源码拆分学习，持续更新中
-*
+* User: zymseo.com
 */
 (function(){
 		// jQuery构造函数
