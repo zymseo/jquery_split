@@ -1,3 +1,7 @@
+/*
+* Description: jQuery部分源码拆分学习，持续更新中
+*
+*/
 (function(){
 		// jQuery构造函数
 		function jQuery(str){
